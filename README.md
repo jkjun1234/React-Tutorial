@@ -1,5 +1,5 @@
 ## 이프로젝트는 학습용입니다.
-
+이번 프로젝트는 git을 활용한 react 프로젝트 진행입니다.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
