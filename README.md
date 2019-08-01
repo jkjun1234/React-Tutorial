@@ -1,3 +1,5 @@
+## 이프로젝트는 학습용입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
