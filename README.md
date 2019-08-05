@@ -7,7 +7,7 @@
     1. github에 로그인하여 저장소(Repositories) 를 만든다.
     2. 새로 만들어지니 저장소의 링크를 복사한다.
     3. VS코드에서 깃탭으로 들어가서 프로젝트파일을 커밋한다.
-    4. 터미널 창에서 -> git remotee add origin (링크) 입력하여 깃 저장소 연결
+    4. 터미널 창에서 -> git remote add origin (링크) 입력하여 깃 저장소 연결
     5. 다음으로 git push 명령어 입력하면 끝
     
 
