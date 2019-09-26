@@ -34,9 +34,9 @@ class ContactDetails extends Component {
     }
 
     handleChange(e) {      {/* 주소록 입력 */}
-    let nextState = {};
-    nextState[e.target.name] = e.target.value;
-    this.setState(nextState)
+        let nextState = {};
+        nextState[e.target.name] = e.target.value;
+        this.setState(nextState)
     }
 
     handleEdit() {
